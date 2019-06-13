@@ -1,18 +1,18 @@
 # Flutter Provider Demo
 
 Flutter App that shows the usage of Flutter Provider State Management
-## Demo 
+## Screenshot
 
 ![alt text](https://i.imgur.com/4KrZY8t.gif "Logo Title Text 1")
 
 
-# 👉 Provider - Flutter Advanced State Management 👈
+#  Provider - Flutter Advanced State Management 
 
 
 
-## 🍎 What is Flutter Provider ?
+##  What is Flutter Provider ?
 
-🍏 In Flutter State Management of variables is difficult, so people started using BLoC .
+* In Flutter State Management of variables is difficult, so people started using BLoC .
 
 But BLoC is not easy to understand and there is a lot of Boilerplate code.
 
