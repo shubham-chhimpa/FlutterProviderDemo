@@ -20,35 +20,35 @@ So Flutter introduces a new way to Manage State using Providers.
 
 
 
-## 🍎How Provider Works?
+## How Provider Works?
 
-🍏 So there are basically three things:
+* So there are basically three things:
 
-👉 ChangeNotifierProvider Widget
+1. ChangeNotifierProvider Widget
 
-👉 Model Class with ChangeNotifier
+2. Model Class with ChangeNotifier
 
-👉 The Wigdets(in seperate class) for which the state to be managed
+3.  The Wigdets(in seperate class) for which the state to be managed
 
-🍏 So the widgets for which the state to be managed are wrapped inside the ChangeNotifierProvider Widget
+* So the widgets for which the state to be managed are wrapped inside the ChangeNotifierProvider Widget
 
-🍏 then the Model class is provided for the ChangeNotifierProvider
+* then the Model class is provided for the ChangeNotifierProvider
 
-🍏 So whenever there is a state change in model class, it will send notification to each widget(only changed ones)
+* So whenever there is a state change in model class, it will send notification to each widget(only changed ones)
 
-🍏 And the widgets then rebuild their ui
+* And the widgets then rebuild their ui
 
 
 
-## 🍎 What's this Provider Demo App do?
+##  What's this Provider Demo App do?
 
-🍏 So it is implementation of flutter Providers State Management Concept.
+* So it is implementation of flutter Providers State Management Concept.
 
-🍏 The App on Start fetches data from a api
+* The App on Start fetches data from a api
 
 And shows image and title from that data.
 
-🍏 By clicking that fab(refresh) button it fetches new data from the same api with a random generated id...
+* By clicking that fab(refresh) button it fetches new data from the same api with a random generated id...
 
 
 
