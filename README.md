@@ -5,6 +5,12 @@ Flutter App that shows the usage of Flutter Provider State Management
 
 ![alt text](https://i.imgur.com/4KrZY8t.gif "Logo Title Text 1")
 
+## Demo
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v=WrGTIvnxExA/0.jpg)]
+
+(https://www.youtube.com/watch?v=v=WrGTIvnxExA)
 
 #  Provider - Flutter Advanced State Management 
 
