@@ -8,9 +8,9 @@ Flutter App that shows the usage of Flutter Provider State Management
 ## Demo
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v=WrGTIvnxExA/0.jpg)]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WrGTIvnxExA/0.jpg)]
 
-(https://www.youtube.com/watch?v=v=WrGTIvnxExA)
+(https://www.youtube.com/watch?v=WrGTIvnxExA)
 
 #  Provider - Flutter Advanced State Management 
 
